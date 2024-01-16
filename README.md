@@ -8,7 +8,7 @@
 * 계명대학교 멋쟁이사자처럼🦁 11기 멤버 + 12기 운영진
 
 ## 해커톤 및 프로젝트 활동
-* 2023년도 한동대 드림랜드톤(팀워크상👏)
+* 2023년도 한동대 드림랜드톤(팀워크상👏) <a href="https://github.com/krsy0411/Purple"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2023년도 멋쟁이사자처럼 중앙해커톤 <a href="https://github.com/layover-ll/client"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2023년도 대구경북권 멋쟁이사자처럼 해커톤(최우수상🏆) <a href="https://github.com/krsy0411/Mandalart"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2023년도 ~ 2024년도 캡스톤디자인  <a href="https://github.com/deceit-cat/FE"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
