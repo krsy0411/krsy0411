@@ -7,6 +7,9 @@
 * 계명대학교 기계공학과⚙️(본전공) + 컴퓨터공학과💻(복수전공)
 * 계명대학교 멋쟁이사자처럼🦁 11기 멤버 + 12기 운영진
 
+## 외부 활동
+* 해커그라운드 계명대 운영진
+
 ## 해커톤 및 프로젝트 활동
 * 2023년도 한동대 드림랜드톤(팀워크상👏) <a href="https://github.com/krsy0411/Purple"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2023년도 멋쟁이사자처럼 중앙해커톤 <a href="https://github.com/layover-ll/client"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
