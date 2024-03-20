@@ -15,4 +15,4 @@
 * 2023년도 멋쟁이사자처럼 중앙해커톤 <a href="https://github.com/layover-ll/client"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2023년도 대구경북권 멋쟁이사자처럼 해커톤(최우수상🏆) <a href="https://github.com/krsy0411/Mandalart"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2023년도 ~ 2024년도 캡스톤디자인  <a href="https://github.com/deceit-cat/FE"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
-* 2024년도 계명대학교 멋쟁이사자처럼 공식블로그 개발 및 운영(현재는 배포까지 완료한 상태) <a href="https://github.com/LikeLion-BlogWeb/FrontEnd"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
+* 2024년도 계명대학교 멋쟁이사자처럼 공식블로그 개발 및 운영 <a href="https://github.com/LikeLion-BlogWeb/FrontEnd"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
