@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 이시영
-완벽함을 추구하기보다는 우선 해나가는걸 좋아합니다. <a href="https://dune-fly-aa9.notion.site/69f48ad9bd224d6394f357b2c1731a23?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
+완벽함을 추구하기보다는 우선 해나가는걸 좋아합니다. <a href="https://dune-fly-aa9.notion.site/69f48ad9bd224d6394f357b2c1731a23?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" /></a> <a href="https://www.linkedin.com/in/krsy0411/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 ## 학교 활동
 * 계명대학교 기계공학과⚙️(본전공) + 컴퓨터공학과💻(복수전공)
