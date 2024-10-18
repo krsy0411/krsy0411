@@ -10,6 +10,7 @@
 
 ## 외부 활동
 * 해커그라운드 계명대 운영진
+* MLSA(Microsoft Learn Student Ambassadors) Alpha
 
 ## 해커톤 및 프로젝트 활동
 * 2023년도 한동대 드림랜드톤(팀워크상👏) <a href="https://github.com/krsy0411/Purple"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
