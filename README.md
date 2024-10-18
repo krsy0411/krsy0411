@@ -16,7 +16,7 @@
 * 2023년도 한동대 드림랜드톤(팀워크상👏) <a href="https://github.com/krsy0411/Purple"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2023년도 멋쟁이사자처럼 중앙해커톤 <a href="https://github.com/layover-ll/client"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2023년도 대구경북권 멋쟁이사자처럼 해커톤(최우수상🏆) <a href="https://github.com/krsy0411/Mandalart"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
-* 2023년도 ~ 2024년도 캡스톤디자인  <a href="https://github.com/deceit-cat/FE"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
+* 2023년도 ~ 2024년도 캡스톤디자인(논문 작성 및 학회 참여)  <a href="https://github.com/deceit-cat/FE"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2024년도 계명대학교 멋쟁이사자처럼 공식블로그 개발 및 운영 <a href="https://github.com/LikeLion-BlogWeb/FrontEnd"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2024년도 계명대학교 프론트엔드 아기시자들 교육 <a href="https://github.com/krsy0411/12thFEStudy"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2024년도 계명대학교 교내 신청곡 사이트(개발ing...) <a href="https://github.com/KMU-XSpace"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
