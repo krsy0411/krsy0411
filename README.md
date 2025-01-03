@@ -25,5 +25,11 @@
 ### 진행중인 프로젝트
 * 2024년도 계명대학교 교내 신청곡 사이트(개발ing...) <a href="https://github.com/KMU-XSpace"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
+#### 자격증
+* Azure
+  * Azure AI Fundamentals, Azure Data Fundamentals, Azure Fundamentals
+* 리눅스마스터 2급
+* 토익스피킹 AL
+
 #### 알고리즘 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krsy0411)](https://solved.ac/krsy0411)
