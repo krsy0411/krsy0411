@@ -23,11 +23,11 @@
 * 2024년도 DDDSeoul 컨퍼런스(발표🗣️) <a href="https://thistimenull.notion.site/DDDSeoul-1741118ea06f808e9914fad5341ad05f?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
 
 ### 학습중
-* docker-docs 기반 **docker 공부**
+* docker-docs 기반 **docker** 공부
 * nodejs 기반 **서버 공부**
 * **AZ104** 자격증
 * GraphQL
-* React **아키텍쳐 및 함수 구현 내용** 공부
+* React **아키텍쳐 및 함수 구현부** 공부
 
 #### 자격증
 * Azure
