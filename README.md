@@ -10,6 +10,7 @@
 ### 외부 활동
 * 해커그라운드 계명대 운영진
 * MLSA(Microsoft Learn Student Ambassadors) Alpha
+* dockerdocs 한국어 번역 오픈소스 기여자
 
 ### 해커톤 및 프로젝트 활동
 * 2023년도 한동대 드림랜드톤(팀워크상👏) <a href="https://github.com/krsy0411/Purple"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
@@ -23,9 +24,9 @@
 * 2024년도 DDDSeoul 컨퍼런스(발표🗣️) <a href="https://thistimenull.notion.site/DDDSeoul-1741118ea06f808e9914fad5341ad05f?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
 
 ### 학습중
-* docker 공부
-* nodejs 기반 서버 공부
-* AZ104 자격증
+* docker
+* nodejs 기반 서버 구축
+* AZ104 - Azure Administrator Associate
 * GraphQL
 
 #### 자격증
