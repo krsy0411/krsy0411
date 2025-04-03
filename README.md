@@ -8,7 +8,7 @@
 * 계명대학교 멋쟁이사자처럼🦁 11기 멤버 + 12기 운영진
 
 ### 외부 활동
-* 해커그라운드 계명대 운영진
+* 해커그라운드 계명대
 * MLSA(Microsoft Learn Student Ambassadors) Alpha
 * dockerdocs 한국어 번역 오픈소스 기여자
 
