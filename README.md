@@ -23,17 +23,5 @@
 * 2024년도 관광데이터 활용 공모전(예선탈락🥲) <a href="https://github.com/krsy0411/MODALA-FE"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2024년도 DDDSeoul 컨퍼런스(발표🗣️) <a href="https://thistimenull.notion.site/DDDSeoul-1741118ea06f808e9914fad5341ad05f?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
 
-### 학습중
-* docker
-* nodejs 기반 서버 구축
-* AZ104 - Azure Administrator Associate
-* GraphQL
-
-#### 자격증
-* Azure
-  * Azure AI Fundamentals, Azure Data Fundamentals, Azure Fundamentals
-* 리눅스마스터 2급
-* 토익스피킹 AL
-
 #### 알고리즘 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krsy0411)](https://solved.ac/krsy0411)
