@@ -18,9 +18,10 @@
 * 2023년
     * 한동대 드림랜드톤(팀워크상) <a href="https://github.com/krsy0411/Purple"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
     * 대구경북권 멋쟁이사자처럼 해커톤(최우수상) <a href="https://github.com/krsy0411/Mandalart"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    * 캡스톤디자인(논문 작성 및 학회 참여)  <a href="https://github.com/deceit-cat/FE"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    * 캡스톤디자인 : 교사-학부모 간 채팅 필터링 웹 서비스 <a href="https://github.com/deceit-cat/FE"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
 * 2024년
     * 계명대학교 프론트엔드 아기시자들 교육 <a href="https://github.com/krsy0411/12thFEStudy"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    * 대한전자공학회 2023년도 하계종합학술대회 : 교사와 학부모 간 대화에서의 부정적 감정 탐지 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891074"><img src="https://img.shields.io/badge/DBpia-BE160C?style=flat-square&logo=&logoColor=white"></a>
     * 해커그라운드 해커톤 in 의성 : TF 역할 <a href="https://thistimenull.notion.site/2024-in-8755b55784f9432f85784e794474c184?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
     * DDDSeoul 컨퍼런스 발표 <a href="https://thistimenull.notion.site/DDDSeoul-1741118ea06f808e9914fad5341ad05f?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
 * 2025년
