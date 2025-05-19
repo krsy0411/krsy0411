@@ -3,7 +3,7 @@
 # 이시영
 기계공학과 컴퓨터공학을 복수전공하며 개발자의 길을 걷고 있는 이시영입니다. 프론트엔드를 중심으로 클라우드, AI, DevOps까지 다양한 기술을 학습하면서 기술 커뮤니티에서 워크샵, 발표, 운영 활동을 통해 기술과 사람 사이의 다리를 놓고 있습니다.
 
-<a href="https://dune-fly-aa9.notion.site/69f48ad9bd224d6394f357b2c1731a23?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" /></a> <a href="https://www.linkedin.com/in/krsy0411/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://dune-fly-aa9.notion.site/69f48ad9bd224d6394f357b2c1731a23?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" /></a> <a href="https://www.linkedin.com/in/krsy0411/"><img src="https://img.shields.io/badge/링크드인 프로필-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 ### 학교 활동
 * 계명대학교 기계공학과⚙️(본전공) + 컴퓨터공학과💻(복수전공)
@@ -12,7 +12,7 @@
 ### 외부 활동
 * 해커그라운드 계명대 <a href="https://www.youtube.com/channel/UCGkbXoMetdKJWmk0TRDPCNw"><img src="https://img.shields.io/badge/해커그라운드 채널-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 * MLSA(Microsoft Learn Student Ambassadors) Alpha
-* 맞다AI가 <a href="https://www.linkedin.com/company/matdaaiga/posts/?feedView=all"><img src="https://img.shields.io/badge/맞다AI가-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+* 맞다AI가 <a href="https://www.linkedin.com/company/matdaaiga/posts/?feedView=all"><img src="https://img.shields.io/badge/링크드인 프로필-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 ### 프로젝트 경험
 * 2023년
