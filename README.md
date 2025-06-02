@@ -3,8 +3,6 @@
 # 이시영
 기계공학과 컴퓨터공학을 복수전공하며 개발자의 길을 걷고 있는 이시영입니다. 프론트엔드를 중심으로 클라우드, AI, DevOps까지 다양한 기술을 학습하면서 기술 커뮤니티에서 워크샵, 발표, 운영 활동을 통해 기술과 사람 사이의 다리를 놓고 있습니다.
 
-<a href="https://dune-fly-aa9.notion.site/69f48ad9bd224d6394f357b2c1731a23?pvs=4"><img src="https://img.shields.io/badge/개인 블로그-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> <a href="https://www.linkedin.com/in/krsy0411/"><img src="https://img.shields.io/badge/링크드인 프로필-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 ##### 프론트엔드
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 
