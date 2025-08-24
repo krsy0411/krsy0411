@@ -9,7 +9,7 @@
 * <a href="https://likelion.net/">계명대학교 멋쟁이사자처럼</a> 러너, 운영진, 프론트엔드 멘토 | 2023.03 - 2024.12 
 * <a href="https://mvp.microsoft.com/ko-KR/studentambassadors">MSA(Microsoft Student Ambassadors)</a> Alpha | 2024.09 - 2025.02
 * <a href="https://github.com/matdaaiga-kr/">맞다AI가</a> 스피커 및 운영팀 | 2025.01 - 2025.07
-* <a href="https://github.com/matdaaiga-kr/">크래프톤 정글</a> 10기 | 2025.07 - ing
+* <a href="https://jungle.krafton.com/">크래프톤 정글</a> 10기 | 2025.07 - ing
 
 ### Projects
 * <a href="https://github.com/deceit-cat/FE">캡스톤디자인</a> | 교사-학부모 간 채팅 필터링 웹 서비스
