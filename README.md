@@ -18,6 +18,8 @@
 * <a href="https://dddseoul.kr/speakers/siyeonglee">DDDSeoul 컨퍼런스</a> | 발표
 * <a href="https://matdaaiga.kr/">맞다AI가 웹사이트</a> | 개발
 * <a href="https://docker-ko.github.io/">도커 한국어 번역 오픈소스 웹사이트</a> | 개발 및 운영
+* <a href="https://matdaaiga.kr/2025/03/31/global-ai-bootcamp-daegu-2025-retro">Global AI Bootcamp in Daegu</a> | 발표
+* <a href="https://matdaaiga.kr/2025/06/25/global-ai-github-copilot-bootcamp-daegu-2025-retro">Global AI GitHub Copilot Bootcamp in Daegu</a> | 발표
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krsy0411)](https://solved.ac/krsy0411)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=krsy0411&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
