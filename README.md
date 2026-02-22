@@ -35,4 +35,3 @@
 * <a href="https://youtu.be/PHTjCJG6fkI?si=J9BJiwLoFw2F3zBh">백준 문제(원의 영역) 해설</a> | 유튜브 촬영
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krsy0411)](https://solved.ac/krsy0411)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=krsy0411&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
