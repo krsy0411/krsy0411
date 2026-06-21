@@ -2,8 +2,6 @@
 
 # 이시영
 프론트엔드를 중심으로 클라우드, AI, DevOps까지 다양한 기술을 학습하며 개발 커뮤니티에서 발표, 운영 활동을 통해 지식과 경험을 쌓아나가고 있습니다.
-* <a href="https://thistimenull.notion.site/portfolio">포트폴리오</a>
-* <a href="https://www.linkedin.com/in/krsy0411/">링크드인 프로필</a>
 
 ### Community
 * <a href="https://likelion.net/">계명대학교 멋쟁이사자처럼</a> 러너, 운영진, 프론트엔드 멘토 | 2023.03 - 2024.12 
