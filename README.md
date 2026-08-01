@@ -15,7 +15,7 @@
 * <a href="https://docker-ko.github.io/">도커 한국어 번역 오픈소스 웹사이트</a>
 
 ### Activities
-* <a href="https://likelion.net/">코멘토•포텐스닷</a> Education Manager | 2026.03 - 2026.08
+* <a href="https://edu.potens.ai/corporate-training/gen-ai-training">코멘토•포텐스닷</a> Education Manager | 2026.03 - 2026.08
 
 ##### 2024년
 * <a href="https://thistimenull.notion.site/2024-in-8755b55784f9432f85784e794474c184?pvs=4">해커그라운드 해커톤 in 의성</a> | TF(검증팀)
