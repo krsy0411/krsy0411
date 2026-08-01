@@ -13,13 +13,8 @@
 * <a href="https://matdaaiga.kr/">맞다AI가 웹사이트</a>
 * <a href="https://docker-ko.github.io/">도커 한국어 번역 오픈소스 웹사이트</a>
 
-### Projects
-* <a href="https://github.com/deceit-cat/FE">캡스톤디자인</a> | 교사-학부모 간 채팅 필터링 웹 서비스
-* <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891074">대한전자공학회 2023년도 하계종합학술대회</a> | 교사와 학부모 간 대화에서의 부정적 감정 탐지
-* <a href="https://github.com/krsy0411/jungle10-tetris">크래프톤 정글 미니 프로젝트</a> | 실시간 테트리스 게임
-* <a href="https://github.com/panopticon-jungle10/panopticon-frontend">크래프톤 정글 최종 프로젝트</a> | Observability 플랫폼
-
 ### Activities
+* <a href="https://likelion.net/">코멘토•포텐스닷</a> Education Manager | 2026.03 - 2026.08
 
 ##### 2024년
 * <a href="https://thistimenull.notion.site/2024-in-8755b55784f9432f85784e794474c184?pvs=4">해커그라운드 해커톤 in 의성</a> | TF(검증팀)
@@ -31,5 +26,10 @@
 * <a href="https://matdaaiga.kr/2025/06/25/global-ai-github-copilot-bootcamp-daegu-2025-retro">Global AI GitHub Copilot Bootcamp in Daegu</a> | 발표
 * <a href="https://youtube.com/playlist?list=PLDZRZwFT9WksXxU5uQOO3vIbYHnp1e-SC&si=yW7dmgahJBfkoSDt">GitHub Copilot Vibe Coding Workshop</a> | 유튜브 촬영
 * <a href="https://youtu.be/PHTjCJG6fkI?si=J9BJiwLoFw2F3zBh">백준 문제(원의 영역) 해설</a> | 유튜브 촬영
+
+##### 2026년
+* <a href="https://matdaaiga.kr/2026/02/22/global-power-platform-bootcamp-seoul-retro">Global Power Platform Bootcamp Seoul 2026</a> | 프록토
+* <a href="https://matdaaiga.kr/2026/03/29/global-ai-agent-camp-2026-retro">Global AI Agent Camp 2026</a> | 발표
+* <a href="https://matdaaiga.kr/2026/07/22/matdaaiga-2026-07-meetup-retro">맞다AI가 7월 밋업 - 하네스 엔지니어링</a> | 발표
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krsy0411)](https://solved.ac/krsy0411)
